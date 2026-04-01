@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Kavya Kanumuri
 
-<!--
-**Kavya0819/Kavya0819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer at TFG Pvt Ltd  
+🚀 Passionate about Full Stack Development & Machine Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- 💻 Languages: Java, Python, JavaScript  
+- 🌐 Web: HTML, CSS, Angular  
+- 🗄 Database: MySQL  
+- 🤖 AI/ML: NLP, OpenCV, MediaPipe  
+- ⚙ Tools: Git, GitHub, Postman  
+
+---
+
+## 🚀 Projects
+- 🖐 Virtual Mouse – Gesture-based control using OpenCV & MediaPipe  
+- 🔍 Fake Review Detection – NLP model to detect fake reviews  
+- 🏨 Hotel Management System – Full-stack application using Java & MySQL  
+
+---
+
+## 📊 GitHub Stats
+![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya0819&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with me
+- 📧 Email: kanumurikavya03@gmail.com  
+- 💬 WhatsApp: https://wa.me/917207550919  
+- 🌐 Portfolio: https://kavya-portfolio-ygek.onrender.com/ 
+
+---
+
+⭐ Check out my repositories below!
+
+
