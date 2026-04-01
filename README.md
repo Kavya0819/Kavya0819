@@ -21,10 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya0819&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Connect with me
 - 📧 Email: kanumurikavya03@gmail.com  
